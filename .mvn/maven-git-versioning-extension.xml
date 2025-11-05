@@ -4,13 +4,22 @@
         <ref type="branch">
             <pattern>.+</pattern>
             <version>${ref}-SNAPSHOT</version>
+            <properties>
+                <project.build.outputTimestamp>${commit.timestamp.iso}</project.build.outputTimestamp>
+            </properties>
         </ref>
         <ref type="tag">
             <pattern><![CDATA[v(?<version>.*)]]></pattern>
             <version>${ref.version}</version>
+            <properties>
+                <project.build.outputTimestamp>${commit.timestamp.iso}</project.build.outputTimestamp>
+            </properties>
         </ref>
     </refs>
     <rev>
         <version>${commit.short}</version>
+        <properties>
+            <project.build.outputTimestamp>${commit.timestamp.iso}</project.build.outputTimestamp>
+        </properties>
     </rev>
 </configuration>

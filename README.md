@@ -7,3 +7,4 @@
 * https://jitpack.io
 * https://github.com/qoomon/maven-git-versioning-extension
 * https://www.mojohaus.org/flatten-maven-plugin
+* https://maven.apache.org/guides/mini/guide-reproducible-builds.html
