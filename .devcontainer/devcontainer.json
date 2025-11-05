@@ -7,7 +7,9 @@
 		"vscode": {
 			"extensions": [
 				"hverlin.mise-vscode",
-				"tamasfe.even-better-toml"
+				"tamasfe.even-better-toml",
+				"vscjava.vscode-java-pack",
+				"DotJoshJohnson.xml"
 			],
 			"settings": {
 				"mise.configureExtensionsAutomatically": true
