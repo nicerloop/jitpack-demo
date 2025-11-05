@@ -5,3 +5,5 @@
 * https://www.java.com
 * https://maven.apache.org
 * https://jitpack.io
+* https://github.com/qoomon/maven-git-versioning-extension
+* https://www.mojohaus.org/flatten-maven-plugin

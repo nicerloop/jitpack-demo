@@ -1,2 +1,4 @@
 /.vscode/
 /target/
+.git-versioned-pom.xml
+.flattened-pom.xml
