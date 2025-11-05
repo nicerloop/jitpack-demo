@@ -4,3 +4,4 @@
 * https://code.visualstudio.com
 * https://www.java.com
 * https://maven.apache.org
+* https://jitpack.io
