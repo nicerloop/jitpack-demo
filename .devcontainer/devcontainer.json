@@ -1,3 +1,6 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/base:noble"
+	"image": "mcr.microsoft.com/devcontainers/base:noble",
+	"features": {
+		"ghcr.io/atty303/devcontainer-features/mise:1": {}
+	}
 }
